@@ -68,6 +68,16 @@ Este repositorio contiene una implementación de referencia de un pipeline de CI
    }
    ```
 
+   <p align="center">
+     <img width='60%' src="https://github.com/alvarodelburgoperez/github-actions-pipeline-playground-all-in-one/blob/main/assets/policy.png" />
+   </p>
+
+   
+   <p align="center">
+     <img width='60%' src="https://github.com/alvarodelburgoperez/github-actions-pipeline-playground-all-in-one/blob/main/assets/nuevo_usuario.png" />
+   </p>
+   
+
 3. **Preparar Backend de Terraform**
    ```bash
    
@@ -95,6 +105,23 @@ Este repositorio contiene una implementación de referencia de un pipeline de CI
    terraform plan
    terraform apply
    ```
+
+   <p align="center">
+     <img width='60%' src="https://github.com/alvarodelburgoperez/github-actions-pipeline-playground-all-in-one/blob/main/assets/init.png" />
+   </p>
+   
+   <p align="center">
+     <img width='60%' src="https://github.com/alvarodelburgoperez/github-actions-pipeline-playground-all-in-one/blob/main/assets/plan.png" />
+   </p>
+   
+   <p align="center">
+     <img width='60%' src="https://github.com/alvarodelburgoperez/github-actions-pipeline-playground-all-in-one/blob/main/assets/apply1.png" />
+   </p>
+   
+   <p align="center">
+     <img width='60%' src="https://github.com/alvarodelburgoperez/github-actions-pipeline-playground-all-in-one/blob/main/assets/apply2.png" />
+   </p>
+   
 
 5. **Configurar Secretos en GitHub**
 
